@@ -138,7 +138,8 @@ const Products = (props) => {
       <li key={index}>
         <Image src={url} width={70} roundedCircle></Image>
         <Button variant="primary" size="large">
-          {item.name}: ${item.cost} Stock: {item.instock}
+          {item.name}: ${item.cost}<br/>
+          Stock: {item.instock}
         </Button>
         <input name={item.name} type="submit" onClick={addToCart}></input>
       </li>
