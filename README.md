@@ -1,6 +1,6 @@
 # Shopping-Cart
 
-Shopping cart submit and add 4 different types of items into the cart to checkout.
+Shopping cart consists of different items that you and press the submit button and add 4 different types of items into the cart to checkout.
 When interacting with the website when you run out of items instock it will alert you with a "Sold Out" sign. 
 You can restock items any time you want just click restock button.
 
